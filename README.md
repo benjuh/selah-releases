@@ -6,7 +6,8 @@ A Bible reader for pausing, reflecting, and studying the Word.
 
 Grab the latest installer for your OS from the [Releases page](https://github.com/benjuh/selah-releases/releases/latest):
 
-- **macOS** — `Selah-<version>.dmg`
+- **macOS - Apple Chip** — `Selah-<version>-arm64.dmg`
+- **macOS - Intel Chip** — `Selah-<version>.dmg`
 - **Windows** — `Selah-Setup-<version>.exe`
 - **Linux** — `Selah-<version>.AppImage`
 
