@@ -18,8 +18,6 @@ Selah isn't code-signed, so your OS shows a one-time warning. This is expected.
 ### macOS
 1. Open the `.dmg` and drag **Selah** to Applications.
 2. Right-click (or Control-click) **Selah** in Applications → **Open** → **Open** again.
-   - If it still won't open, run in Terminal:
-     `xattr -dr com.apple.quarantine /Applications/Selah.app`
 
 ### Windows
 1. Run the `.exe`. At the blue "Windows protected your PC" screen, click **More info** → **Run anyway**.
